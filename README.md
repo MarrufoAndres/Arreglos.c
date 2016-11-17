@@ -1,4 +1,1 @@
-# Arreglos.c
-# Arreglos.c
-# Arreglos.c
-# Arreglos.c
+Programa para hacer intercambio por pasos por valor y por referencia
